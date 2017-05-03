@@ -1,2 +1,2 @@
 # fork-me
-To learn forking
+This will screw your repo!!! 
